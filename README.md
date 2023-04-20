@@ -16,6 +16,9 @@ plans forward:
 2. explore theoretical explanation to explain the difference in sensitivity of different combination of networks to hyperparameters. 
 3. explore more complex dataset
 
+20/04/2021
+Bug alert: interupt the training to save the model, and then load to retrain the model, this procudure seems to have been creating issues on the quality of the image generator, I am currently investigating
+
 
 
 
